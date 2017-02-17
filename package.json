@@ -1,0 +1,29 @@
+{
+  "name": "deploymenttestapp",
+  "version": "1.0.0",
+  "description": "this a application to deployment test on herouk",
+  "main": "heroukDeployTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyanaprakash/HeroukDployTest.git"
+  },
+  "keywords": [
+    "herouk",
+    "express",
+    "node"
+  ],
+  "author": "Gyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyanaprakash/HeroukDployTest/issues"
+  },
+  "homepage": "https://github.com/gyanaprakash/HeroukDployTest#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "chalk": "^1.1.3",
+    "express": "^4.14.1"
+  }
+}
